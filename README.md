@@ -166,9 +166,7 @@ button:disabled{opacity:.4}
 
 <div class="info">
 
- Coin Tap — развлекательная игра.
-
- CT не являются криптовалютой и не имеют денежной стоимости.
+ Coin Tap — mini tab
 
 </div>
 
